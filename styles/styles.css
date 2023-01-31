@@ -1,0 +1,79 @@
+.header {
+    background-color: #E5E0FF;
+}
+
+.logo {
+    padding-left: 4em;
+    width: auto;
+    height: 4em;
+}
+
+.menulayer {
+    background-color: #F7EFE5;
+    position: absolute;
+    padding-top: 4rem;
+}
+.nav-item {
+    font-style: oblique;
+}
+.nav-link {
+    font-weight: 4000;
+    color: #FFB26B;
+    font-size: large;
+}
+.btn{
+    border: 2px;
+    padding: 4px 16pxpx 4px 16px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-weight: bold;
+    font-size: 3.5em;
+}
+
+.brief{
+    padding: 100px;
+    background-color: #FFFBF5;
+}
+.works {
+    padding: 20px 4em;
+    text-align: center;
+
+}
+
+h2{
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-weight: bold;
+    font-size: 2em;
+    padding-right: 20px;
+}
+.sam-img {
+    width: 80%;
+    margin: 30px 30px;
+}
+
+#bottom-layer {
+    background-color: #F7EFE5;
+    padding-bottom: 2rem;
+    margin-top: 10px;
+}
+.final {
+    text-align: center;
+}
+
+h3 {
+    padding-top: 10px;
+    font-family: 'Fredoka One', cursive;
+}
+.contact-us {
+    font-family: 'Fredoka One', cursive;
+    padding-top: 8px;
+}
+
+i {
+    padding-left: 20px;
+    font-size: 2rem;
+}
